@@ -1,0 +1,4 @@
+node_modules/
+*bkp
+rethinkdb_data/
+config.js
