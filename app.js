@@ -14,8 +14,8 @@ app.use(express.static(__dirname + "/public"));
 var config = require("./config");
 
 API = 'https://api.instagram.com/v1/'
-CALLBACK_URL = 'http://72.78.225.215:3030/callback';
-REDIRECT_URI = 'http://72.78.225.215:3030';
+CALLBACK_URL = 'http://x.x.x.x:3030/callback';
+REDIRECT_URI = 'http://x.x.x.x:3030';
 MAX_SOCKETS = 10;
 var lastUpdate = 0;
 
